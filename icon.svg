@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="からだ記録">
+  <rect width="512" height="512" rx="112" fill="#1c6758"/>
+  <path d="M110 287c39-36 66-32 91 7 19 29 39-103 66-103 21 0 30 63 50 63h85" fill="none" stroke="#fffdf7" stroke-linecap="round" stroke-linejoin="round" stroke-width="28"/>
+  <circle cx="399" cy="254" r="19" fill="#e89468"/>
+</svg>

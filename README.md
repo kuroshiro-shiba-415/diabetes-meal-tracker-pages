@@ -1,2 +1,5 @@
-# diabetes-meal-tracker-pages
-Public static app files for からだ記録. Personal health records stay in each browser.
+# からだ記録 公開版
+
+このリポジトリには、公開用にビルドした静的ファイルだけを置いています。個人の健康記録やCSVは含みません。記録は利用する端末のブラウザ内に保存され、端末間で同期されません。
+
+開発用ソースは非公開リポジトリで管理しています。
